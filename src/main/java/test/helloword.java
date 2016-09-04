@@ -1,13 +1,9 @@
 package test;
 
 public class helloword {
-	//develop
-	public static void main(String[] args) {
-		int i = 0;
-		System.out.print(i);
 
-		int j = 0;
-		System.out.println(j);
+	public static void main(String[] args) {
+		System.out.println("master");
 		return;
 	}
 }
